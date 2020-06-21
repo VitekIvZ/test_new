@@ -15,3 +15,4 @@ node(){
     stage("Delivery"){
         sh "echo Pulling on registry...."
     }
+}
